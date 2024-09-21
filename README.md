@@ -3,20 +3,20 @@
 ## Execulte em sua máquina:
 ### Para execultar a aplicação em sua máquina, siga os seguintes passos:
 
-1. Instale as ferramentas nescessárias:
+1. **Instale as ferramentas nescessárias**:
 - **Node JS**: Link para download -> [Baixar Node Js](https://nodejs.org/)
 - **Git**: Link para download -> [Baixar Git](https://git-scm.com/downloads)
 - Após instalar as ferramentas, verifique se tudo ocorreu bem na instalação, no terminal, execulte: ``git --version``, para o Git. E ``node -v`` 
 
-2. Clone o repositório:
+2. **Clone o repositório**:
 - No terminal, caminhe até o repositório onde você deseja clonar o repositório com ``cd + caminho``. Exemplo: ``cd projetos/meus_projetos_clonados``.
 - Após isso, clone o repositório com o comando: ``git clone  https://github.com/luisfl04/jogo-da-velha.git`` ou use ``git clone git@github.com:luisfl04/jogo-da-velha.git`` caso você use um protocólo ssh.
 - Entre no repositório: ``cd jogo-da-velha.git``
 
-3. Instale as dependências nescessárias:
+3. **Instale as dependências nescessárias**:
 - Execulte o comando: ``npm install``
 
-4. Execulte a aplicação:
+4. **Execulte a aplicação**:
 - Para execultar a aplicação, use: ``npm start``
 - Com isso, o servidor deve iniciar a aplicação na porta ``localhost:3000``, então use esta porta em seu navegador e utilize a aplicação.
 
